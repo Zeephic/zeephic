@@ -3,17 +3,7 @@
     padding:0;
     box-sizing: border-box;
 }
-.red{
-    background:red;
-}
 
-.blue{
-    background:blue;
-}
-
-.white{
-    background:white;
-}
 
 .header{
     height:15vh;
@@ -77,7 +67,7 @@ span{
 /* home section*/
 
 .home{
-background-image:url('images/city2.png');
+background-image:url('city2.png');
 background-repeat:no-repeat;
 background-size:cover;
 display:flex;
